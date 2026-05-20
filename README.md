@@ -177,4 +177,4 @@ Recorder 設定は `Assets/Showcase/Common/Recorder` に 16:9 / 9:16 の MP4 / P
 
 ## ライセンス
 
-リポジトリ直下の `LICENSE` は MIT License です。Unity、Naninovel、その他 third-party package / asset にはそれぞれのライセンスが適用されます。
+リポジトリ直下の `LICENSE` は MIT License です。Unity、その他 third-party package / asset にはそれぞれのライセンスが適用されます。
