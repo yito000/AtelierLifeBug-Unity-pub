@@ -1,5 +1,7 @@
 # AtelierLifeBug Unity
 
+https://github.com/yito000/AtelierLifeBug-Unity-pub/releases/tag/release
+
 Unity 6.4 を使った、映像制作・映像内ゲーム撮影用のプロジェクトです。
 
 このリポジトリは、完成した単体ゲームではなく、動画素材として使う小規模な「見せゲーム」を Unity 上で管理・再生・録画するための制作環境です。`Assets/Showcase` 以下の共通基盤で、各見せゲームを `ShowGameDefinition` と `TakePreset` として登録し、Editor の Game Launcher からテイクを選んで再生・撮影します。
